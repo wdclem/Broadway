@@ -2,20 +2,20 @@ body {
   font-style: Helvetica;
   text-align: center;
   }
-.Head ,
- #middle {
+  .Head ,
+#middle {
    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 .Head ,
- #middle ,
- #copyright ,
- .navigation ,
- a{
+#middle ,
+#copyright ,
+.navigation ,
+a{
   color: white;
   font-size: 18px;
 }
 .keywords ,
-  #middle {
+ #middle {
   font-size: 23px;
   font-weight: bold;
 }
